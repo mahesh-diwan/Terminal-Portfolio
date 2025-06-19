@@ -1,10 +1,10 @@
 var dev = "https://dev.to/cosmicwanderer7";
-var twitter = "https://twitter.com/PrithviYewale";
-var linkedin = "https://www.linkedin.com/in/prithvi-yewale-a77275228/";
-var instagram = "https://www.instagram.com/prithvi_yewale/";
-var github = "https://github.com/cosmicwanderer7";
+var twitter = "https://x.com/mahesh_diwan1";
+var linkedin = "https://www.linkedin.com/in/mahesh-diwan/";
+var instagram = "https://www.instagram.com/mahesh_diwan1/";
+var github = "https://github.com/mahesh-diwan";
 var sudo = "https://www.youtube.com/watch?v=dQw4w9WgXcQ?autoplay=1";
-var email = "mailto:yewaleprithvi2003@gmail.com";
+var email = "mailto:diwanmahesh11@gmail.com";
 
 let banner = [
   `<div id="banner-section" class="banner">
@@ -13,35 +13,35 @@ let banner = [
 ];
 
 let aboutme = [
-  "<br>",
-  `<div id="aboutme-section">`,
-  `<span class='underline'>Hey, I'm Prithvi! 👋</span>`,
-  "<br>",
-  `<li>🔧 I'm a Desktop Engineer passionate about fullstack development and UI/UX design.</li>`,
-  `<li>💡 Always eager to learn new technologies and build meaningful digital products.</li>`,
-  `<li>🧠 Experienced in building responsive websites using Next.js and Tailwind CSS.</li>`,
-  `<li>📂 Use the <span class="command">projects</span> command to check out what I’ve built!</li>`,
-  `<li>👥 Looking to collaborate on exciting frontend/backend projects.</li>`,
-  `<li>📫 Contact: <a href="mailto:yewaleprithvi2003@gmail.com">yewaleprithvi2003@gmail.com</a></li>`,
-  "</div>",
-  "<br>",
+"<br>",
+`<div id="aboutme-section">`,
+`<span class='underline'>Hey, I'm Mahesh! 👋</span>`,
+"<br>",
+`<li>🚀 I'm a Computer Science undergrad with a growing passion for DevOps and Cloud technologies.</li>`,
+`<li>🛠️ Hands-on with tools like Docker, Kubernetes, Jenkins, GitHub Actions, and AWS.</li>`,
+`<li>📦 I love building CI/CD pipelines and deploying scalable applications.</li>`,
+`<li>💡 Eager to learn, collaborate, and contribute to impactful real-world projects.</li>`,
+`<li>📂 Use the <span class="command">projects</span> command to check out what I’ve built!</li>`,
+`<li>📫 Contact: <a href="mailto:diwanmahesh11@gmail.com">diwanmahesh11@gmail.com</a></li>`,
+"</div>",
+"<br>",
+
 ];
 
 let social = [
   "<br>",
-  'dev        <a href="' + dev + '" target="_blank">dev.to/cosmicwanderer7</a>',
-  'twitter        <a href="' +
+  'Twitter(X)        <a href="' +
     twitter +
-    '" target="_blank">twitter.com/PrithviYewale</a>',
-  'linkedin       <a href="' +
+    '" target="_blank">x.com/mahesh_diwan1</a>',
+  'Linkedin       <a href="' +
     linkedin +
-    '" target="_blank">linkedin/prithviYewale</a>',
-  'instagram      <a href="' +
+    '" target="_blank">linkedin/mahesh-diwan</a>',
+  'Instagram      <a href="' +
     instagram +
-    '" target="_blank">instagram/prithvi_yewale</a>',
-  'github         <a href="' +
+    '" target="_blank">instagram/mahesh_diwan1</a>',
+  'Github         <a href="' +
     github +
-    '" target="_blank">github/cosmicwanderer7</a>',
+    '" target="_blank">github/mahesh-diwan</a>',
   "<br>",
 ];
 
@@ -70,61 +70,68 @@ let help = [
 let projects = [
   "<br>",
   `<div id="projects-section">`,
-  `<a href="https://github.com/cosmicwanderer7/google-clone" target="_blank"><span class='underline'>Google Search Clone</span></a>`,
+
+  `<a href="https://github.com/mahesh-diwan/News3" target="_blank"><span class='underline'>News Website</span></a>`,
   `<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
-Functional Google homepage replica using Tailwind CSS and Next.js.
-Live: <a href="https://google-clone-cosmicwanderer7.vercel.app/" target="_blank">google-clone.vercel.app</a>
+A news portal using Flask and web scraping to fetch and display the latest headlines.
+Live: N/A
 Built With:
-- Next.js
-- Tailwind CSS
-- Programmable Search API
+- Flask
+- Python
+- BeautifulSoup
 </pre>`,
 
-  `<a href="https://github.com/cosmicwanderer7/contactform" target="_blank"><span class='underline'>Contact Form with Google Sheets</span></a>`,
+  `<a href="https://github.com/mahesh-diwan/chat-with-pdf" target="_blank"><span class='underline'>Chat With PDF</span></a>`,
   `<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
-Next.js contact form storing data to Google Sheets via API, sends confirmation emails.
-Live: <a href="https://contactform-psi.vercel.app/" target="_blank">contactform-psi.vercel.app</a>
+A tool to interact with PDF files via a chat interface using NLP techniques.
+Live: N/A
 Built With:
-- Next.js
-- Tailwind CSS
-- Google Sheets API
-- IFTTT
+- Python
+- LangChain
+- Streamlit
 </pre>`,
 
-  `<a href="https://cosmicwanderer7.github.io/Terminal-Portfolio/" target="_blank"><span class='underline'>Terminal-Styled Portfolio</span></a>`,
+  `<a href="https://github.com/mahesh-diwan/Devops-Project1" target="_blank"><span class='underline'>CI/CD Pipeline with Jenkins & Docker</span></a>`,
   `<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
-A responsive portfolio that mimics a Linux terminal interface.
+Automated pipeline setup using Jenkins, SonarQube, and Docker deployed on AWS EC2.
 Built With:
-- Vanilla JS
-- Tailwind CSS
-- Yarn
+- Jenkins
+- SonarQube
+- Docker
+- AWS EC2
 </pre>`,
 
-  `<a href="https://github.com/cosmicwanderer7/github-script" target="_blank"><span class='underline'>GitHub Init Script</span></a>`,
+  `<a href="https://github.com/mahesh-diwan/Web-Scraper" target="_blank"><span class='underline'>Node.js + Puppeteer Web Scraper</span></a>`,
   `<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
-Bash script that automates GitHub repo creation and initial commit setup.
+A web scraper using Puppeteer with a Python Flask backend served via Docker.
 Built With:
-- Bash
-- GitHub API
+- Node.js
+- Puppeteer
+- Python
+- Flask
+- Docker
 </pre>`,
 
-  `<a href="https://github.com/cosmicwanderer7/guacamole-deploy" target="_blank"><span class='underline'>Apache Guacamole on OCI</span></a>`,
+  `<a href="https://github.com/mahesh-diwan/AWS-Resource-Tracker" target="_blank"><span class='underline'>AWS Resource Tracker</span></a>`,
   `<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
-Remote desktop gateway deployment for secure access on Oracle Cloud.
+Tool to track and manage AWS resources for cost-efficiency and transparency.
 Built With:
-- Apache Guacamole
-- Oracle Cloud
-- Linux
+- AWS SDK
+- Node.js
+- Express
 </pre>`,
 
-  `<a href="https://github.com/cosmicwanderer7/mumble-deploy" target="_blank"><span class='underline'>Mumble Server on OCI</span></a>`,
+  `<a href="https://github.com/mahesh-diwan/flask-cicd" target="_blank"><span class='underline'>Flask App CI/CD on AWS</span></a>`,
   `<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
-Voice chat server deployed on cloud for low-latency communication.
+End-to-End CI/CD Pipeline deploying a Flask app using GitHub Actions, Docker, and Nginx on EC2.
 Built With:
-- Mumble
-- Oracle Cloud
-- Linux
+- Flask
+- GitHub Actions
+- Docker
+- Nginx
+- AWS EC2
 </pre>`,
+
   "</div>",
   "<br>",
 ];
