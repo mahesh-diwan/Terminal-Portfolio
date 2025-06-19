@@ -109,7 +109,7 @@ function enterKey(e) {
 
   if (e.keyCode === 13) {
     const input = command.innerHTML.trim().toLowerCase();
-    addLine("[prithvi@archrx5500m]~$" + command.innerHTML, "no-animation", 0);
+    addLine("[mahesh@portfolio]~$" + command.innerHTML, "no-animation", 0);
 
     if (awaitingConfirmation && suggestedCommand) {
       if (input === "y") {
@@ -166,7 +166,7 @@ function commander(cmd) {
       break;
     case "email":
       addLine(
-        'Opening mailto:<a href="mailto:yewaleprithvi2003@gmail.com"> yewaleprithvi2003@gmail.com</a>...',
+        'Opening mailto:<a href="mailto:diwanmahesh11@gmail.com"> diwanmahesh11@gmail.com</a>...',
         "color2",
         80,
       );
