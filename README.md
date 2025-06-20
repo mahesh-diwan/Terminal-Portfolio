@@ -46,19 +46,6 @@ Simply type any of these commands:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are what make the open source community so inspiring. Feel free to fork this repo and submit a pull request!
-
-```bash
-# Steps:
-1. Fork this repository
-2. Create your branch (`git checkout -b feature/awesome`)
-3. Commit your changes (`git commit -m 'Add awesome feature'`)
-4. Push to the branch (`git push origin feature/awesome`)
-5. Open a Pull Request
-```
-
 ## 📄 License
 This terminal portfolio by Mahesh Diwan is licensed under
 Creative Commons Attribution-ShareAlike 4.0 International.
