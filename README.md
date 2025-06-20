@@ -67,9 +67,9 @@ Based on the original work by Prithvi Yewale.
 
 ## 📬 Contact
 - 📧 Email: diwanmahesh11@gmail.com
-- 🐦 Twitter: @mahesh_diwan1
-- 📸 Instagram: @mahesh_diwan1
-- 💼 LinkedIn: linkedin.com/in/mahesh-diwan
-- 👨‍💻 GitHub: github.com/mahesh-diwan
+- 🐦 Twitter: [@mahesh_diwan1](https://x.com/mahesh_diwan1)
+- 📸 Instagram:[@mahesh_diwan1](https://instagram.com/mahesh_diwan1)
+- 💼 LinkedIn: [linkedin.com/in/@mahesh-diwan](https://linkedin.com/in/mahesh-diwan)
+- 👨‍💻 GitHub:[@mahesh-diwan](https://github.com/mahesh-diwan)
 
 <p align="center">🖤 Thanks for visiting! Type <code>help</code> to explore the terminal.</p> ```
