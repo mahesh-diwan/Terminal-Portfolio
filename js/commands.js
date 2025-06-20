@@ -1,4 +1,3 @@
-var dev = "https://dev.to/cosmicwanderer7";
 var twitter = "https://x.com/mahesh_diwan1";
 var linkedin = "https://www.linkedin.com/in/mahesh-diwan/";
 var instagram = "https://www.instagram.com/mahesh_diwan1/";
@@ -30,20 +29,13 @@ let aboutme = [
 
 let social = [
   "<br>",
-  'Twitter(X)        <a href="' +
-    twitter +
-    '" target="_blank">x.com/mahesh_diwan1</a>',
-  'Linkedin       <a href="' +
-    linkedin +
-    '" target="_blank">linkedin/mahesh-diwan</a>',
-  'Instagram      <a href="' +
-    instagram +
-    '" target="_blank">instagram/mahesh_diwan1</a>',
-  'Github         <a href="' +
-    github +
-    '" target="_blank">github/mahesh-diwan</a>',
+  'Twitter(X)    : <a href="' + twitter + '" target="_blank">x.com/mahesh_diwan1</a>',
+  'LinkedIn      : <a href="' + linkedin + '" target="_blank">linkedin.com/in/mahesh-diwan</a>',
+  'Instagram     : <a href="' + instagram + '" target="_blank">instagram.com/mahesh_diwan1</a>',
+  'GitHub        : <a href="' + github + '" target="_blank">github.com/mahesh-diwan</a>',
   "<br>",
 ];
+
 
 let help = [
   `<br><div id="help-section"><pre class="whitespace-pre-wrap">
@@ -74,7 +66,7 @@ let projects = [
   `<a href="https://github.com/mahesh-diwan/News3" target="_blank"><span class='underline'>News Website</span></a>`,
   `<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
 A news portal using Flask and web scraping to fetch and display the latest headlines.
-Live: N/A
+Live:  <a href="https://mahesh-diwan.github.io/News3/" target="_blank">https://mahesh-diwan.github.io/News3/</a>
 Built With:
 - Flask
 - Python
@@ -84,7 +76,7 @@ Built With:
   `<a href="https://github.com/mahesh-diwan/chat-with-pdf" target="_blank"><span class='underline'>Chat With PDF</span></a>`,
   `<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
 A tool to interact with PDF files via a chat interface using NLP techniques.
-Live: N/A
+Live: <a href="https://chatwithpdfapp.streamlit.app/" target="_blank">https://chatwithpdfapp.streamlit.app/</a>
 Built With:
 - Python
 - LangChain
