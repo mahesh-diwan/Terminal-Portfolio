@@ -4,7 +4,7 @@ A developer portfolio designed to resemble a Linux terminal. Navigate using type
 
 🔗 **Live Demo:** [mahesh-diwan.github.io/Terminal-Portfolio](https://mahesh-diwan.github.io/Terminal-Portfolio)
 
-![Terminal Preview](assets/screenshot.png)
+![Terminal Preview](assets/banner.png)
 
 ---
 
