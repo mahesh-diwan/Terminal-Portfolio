@@ -6,7 +6,7 @@ A terminal-style developer portfolio built using HTML, JavaScript, and custom st
 
 🔗 Live: [mahesh-diwan.github.io/Terminal-Portfolio](https://mahesh-diwan.github.io/Terminal-Portfolio)
 
-![screenshot](https://github.com/mahesh-diwan/Terminal-Portfolio/assets/banner.png)
+![alt screenshot](https://github.com/mahesh-diwan/Terminal-Portfolio/assets/banner.png)
 
 ### Built With
 
