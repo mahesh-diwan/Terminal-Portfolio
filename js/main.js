@@ -189,10 +189,6 @@ function commander(cmd) {
         scrollToBottom();
       }, 1);
       break;
-    case "dev":
-      addLine("Opening Dev.to...", "color2", 80);
-      newTab(dev);
-      break;
     case "twitter":
       addLine("Opening Twitter...", "color2", 0);
       newTab(twitter);
