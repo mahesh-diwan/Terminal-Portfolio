@@ -113,7 +113,7 @@ Built With:
 - Express
 </pre>`,
 
-  `<a href="https://github.com/mahesh-diwan/flask-cicd" target="_blank"><span class='underline'>Flask App CI/CD on AWS</span></a>`,
+  `<a href="https://github.com/mahesh-diwan/Flask-App" target="_blank"><span class='underline'>Flask App CI/CD on AWS</span></a>`,
   `<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
 End-to-End CI/CD Pipeline deploying a Flask app using GitHub Actions, Docker, and Nginx on EC2.
 Built With:
