@@ -26,7 +26,6 @@ const commandMap = {
   history: "history",
   sudo: "sudo",
   clear: "clear",
-  dev: "dev",
   twitter: "twitter",
   linkedin: "linkedin",
   instagram: "instagram",
