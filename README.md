@@ -1,59 +1,75 @@
-# Terminal-Portfolio
+# 💻 Terminal Portfolio
 
-## About The Project
+A developer portfolio designed to resemble a Linux terminal. Navigate using typed commands like `aboutme`, `projects`, `social`, `help`, and more. Built to showcase skills and projects in a fun, minimal, and interactive way.
 
-A terminal-style developer portfolio built using HTML, JavaScript, and custom styling to simulate a command-line interface.
+🔗 **Live Demo:** [mahesh-diwan.github.io/Terminal-Portfolio](https://mahesh-diwan.github.io/Terminal-Portfolio)
 
-🔗 Live: [mahesh-diwan.github.io/Terminal-Portfolio](https://mahesh-diwan.github.io/Terminal-Portfolio)
-
-![alt screenshot](https://github.com/mahesh-diwan/Terminal-Portfolio/assets/banner.png)
-
-### Built With
-
-- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Vanilla JS](https://vanillajs.com/)
-
-<p align="right">(<a href="#about-the-project">back to top</a>)</p>
+![Terminal Preview](assets/screenshot.png)
 
 ---
 
-## Contributing
+## 🚀 Tech Stack
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and build. Any contributions you make are **greatly appreciated**.
+- 🔧 **HTML5**
+- ⚙️ **JavaScript (Vanilla JS)**
+- 🎨 **CSS3**
+- 🌈 **Tailwind CSS (for styling enhancements)**
+- 🧠 **Creative Design Theme Switcher (Cyber/Anime)**
 
-If you have ideas to improve this project, feel free to:
+---
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
+## 📂 Features
+
+- Terminal-style interface
+- Type-to-navigate commands
+- Fun CLI animation and syntax highlighting
+- Snake game (`snake` command!)
+- Mobile + desktop responsive
+- Fake `sudo` easter egg 😄
+
+---
+
+## 📜 Usage
+
+Simply type any of these commands:
+
+| Command      | Description                       |
+|--------------|------------------------------------|
+| `aboutme`    | Displays info about me             |
+| `projects`   | Lists my featured coding projects  |
+| `social`     | View all my social links           |
+| `email`      | Email me directly                  |
+| `snake`      | Launch the snake game              |
+| `sudo`       | Try it for fun 😉                  |
+| `clear`      | Clear terminal output              |
+| `help`       | Show available commands            |
+
+---
+
+## 🤝 Contributing
+
+Contributions are what make the open source community so inspiring. Feel free to fork this repo and submit a pull request!
+
+```bash
+# Steps:
+1. Fork this repository
+2. Create your branch (`git checkout -b feature/awesome`)
+3. Commit your changes (`git commit -m 'Add awesome feature'`)
+4. Push to the branch (`git push origin feature/awesome`)
 5. Open a Pull Request
+```
 
-And don’t forget to ⭐ the repo!
+## 📄 License
+This terminal portfolio by Mahesh Diwan is licensed under
+Creative Commons Attribution-ShareAlike 4.0 International.
 
-<p align="right">(<a href="#about-the-project">back to top</a>)</p>
+Based on the original work by Prithvi Yewale.
 
----
+## 📬 Contact
+- 📧 Email: diwanmahesh11@gmail.com
+- 🐦 Twitter: @mahesh_diwan1
+- 📸 Instagram: @mahesh_diwan1
+- 💼 LinkedIn: linkedin.com/in/mahesh-diwan
+- 👨‍💻 GitHub: github.com/mahesh-diwan
 
-## License
-
-![by-sa](https://user-images.githubusercontent.com/65147258/209966249-88275ba5-75a3-4a4e-af1c-7d861c5cf838.png)
-
-This terminal-styled portfolio by **Mahesh Diwan** is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).  
-Based on the original work by [Prithvi Yewale](https://github.com/cosmicwanderer7/portfolio).
-
----
-
-## Contact
-
-📧 Email: [diwanmahesh11@gmail.com](mailto:diwanmahesh11@gmail.com)  
-🐦 Twitter: [@mahesh_diwan1](https://twitter.com/mahesh_diwan1)  
-📸 Instagram: [@mahesh_diwan1](https://www.instagram.com/mahesh_diwan1)  
-💼 LinkedIn: [mahesh-diwan](https://www.linkedin.com/in/mahesh-diwan/)  
-👨‍💻 GitHub: [@mahesh-diwan](https://github.com/mahesh-diwan)
-
----
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="center">🖤 Thanks for visiting! Type <code>help</code> to explore the terminal.</p> ```
