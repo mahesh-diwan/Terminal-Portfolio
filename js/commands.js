@@ -3,7 +3,7 @@ var twitter = "https://x.com/mahesh_diwan1";
 var linkedin = "https://www.linkedin.com/in/mahesh-diwan/";
 var instagram = "https://www.instagram.com/mahesh_diwan1/";
 var github = "https://github.com/mahesh-diwan";
-var sudo = "https://www.youtube.com/watch?v=dQw4w9WgXcQ?autoplay=1";
+var sudo = "https://www.youtube.com/watch?v=I4EWvMFj37g?autoplay=1";
 var email = "mailto:diwanmahesh11@gmail.com";
 
 let banner = [
