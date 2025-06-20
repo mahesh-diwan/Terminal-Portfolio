@@ -47,10 +47,13 @@ Simply type any of these commands:
 ---
 
 ## 📄 License
-This terminal portfolio by Mahesh Diwan is licensed under
-Creative Commons Attribution-ShareAlike 4.0 International.
 
-Based on the original work by Prithvi Yewale.
+This terminal portfolio by **Mahesh Diwan** is licensed under:
+
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+> Based on original work by [Prithvi Yewale](https://github.com/cosmicwanderer7/portfolio)
+
 
 ## 📬 Contact
 - 📧 Email: diwanmahesh11@gmail.com
