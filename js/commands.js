@@ -60,18 +60,20 @@ let help = [
 </pre></div><br>`,
 ];
 let projects = [
-  "<br>",
-  `<div id="projects-section">`,
+ "<br>",
+`<div id="projects-section">`,
 
-  `<a href="https://github.com/mahesh-diwan/News3" target="_blank"><span class='underline'>News Website</span></a>`,
-  `<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
-A news portal using Flask and web scraping to fetch and display the latest headlines.
+`<a href="https://github.com/mahesh-diwan/News3" target="_blank"><span class='underline'>News Website</span></a>`,
+`<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
+A live news portal using plain JavaScript and NewsData API to fetch and display the latest headlines.
 Live:  <a href="https://mahesh-diwan.github.io/News3/" target="_blank">https://mahesh-diwan.github.io/News3/</a>
 Built With:
-- Flask
-- Python
-- BeautifulSoup
+- HTML
+- CSS
+- JavaScript
+- NewsData API
 </pre>`,
+
 
   `<a href="https://github.com/mahesh-diwan/chat-with-pdf" target="_blank"><span class='underline'>Chat With PDF</span></a>`,
   `<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
@@ -110,7 +112,6 @@ Tool to track and manage AWS resources for cost-efficiency and transparency.
 Built With:
 - AWS SDK
 - Node.js
-- Express
 </pre>`,
 
   `<a href="https://github.com/mahesh-diwan/Flask-App" target="_blank"><span class='underline'>Flask App CI/CD on AWS</span></a>`,
@@ -120,7 +121,6 @@ Built With:
 - Flask
 - GitHub Actions
 - Docker
-- Nginx
 - AWS EC2
 </pre>`,
 
