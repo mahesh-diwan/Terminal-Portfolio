@@ -4,6 +4,7 @@ var instagram = "https://www.instagram.com/mahesh_diwan1/";
 var github = "https://github.com/mahesh-diwan";
 var sudo = "https://www.youtube.com/watch?v=I4EWvMFj37g?autoplay=1";
 var email = "mailto:diwanmahesh11@gmail.com";
+var hashnode = "https://mahesh1215.hashnode.dev/"
 
 let banner = [
   `<div id="banner-section" class="banner">
@@ -33,6 +34,7 @@ let social = [
   'LinkedIn      : <a href="' + linkedin + '" target="_blank">linkedin.com/in/mahesh-diwan</a>',
   'Instagram     : <a href="' + instagram + '" target="_blank">instagram.com/mahesh_diwan1</a>',
   'GitHub        : <a href="' + github + '" target="_blank">github.com/mahesh-diwan</a>',
+  'Hashnode      : <a href="' + hashnode + '" target="_blank">mahesh1215.hashnode.dev</a>',
   "<br>",
 ];
 
