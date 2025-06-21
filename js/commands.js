@@ -107,12 +107,13 @@ Built With:
 </pre>`,
 
   `<a href="https://github.com/mahesh-diwan/AWS-Resource-Tracker" target="_blank"><span class='underline'>AWS Resource Tracker</span></a>`,
-  `<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
-Tool to track and manage AWS resources for cost-efficiency and transparency.
+`<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
+A shell script utility to list and manage AWS EC2, S3, and Lambda resources using AWS CLI.
 Built With:
-- AWS SDK
-- Node.js
+- Bash Shell Script
+- AWS CLI
 </pre>`,
+
 
   `<a href="https://github.com/mahesh-diwan/Flask-App" target="_blank"><span class='underline'>Flask App CI/CD on AWS</span></a>`,
   `<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
